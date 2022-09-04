@@ -95,4 +95,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 He're some files you may want to see.
 
-<img  width="100%" src='[https://avatars.githubusercontent.com/u/100793520?s=40&v=4](https://avatars.githubusercontent.com/u/100793520?v=4)'>
+<img  width="100%" src='https://avatars.githubusercontent.com/u/100793520?v=4'>
